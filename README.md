@@ -2,7 +2,7 @@
 
 
 
-:man_technologist: &nbsp; Passionate about **Data Analytics** with **Python, SQL and Apache Spark**
+:man_technologist: &nbsp; Passionate about **Data Analytics & BI** with **Python and SQL**
 
 - 🔭 I’m currently working at Trip2balance
 - 🌱 I’m currently learning Django and Snowflake
