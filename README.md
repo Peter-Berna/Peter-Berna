@@ -4,8 +4,8 @@
 
 :man_technologist: &nbsp; Passionate about **Data Analytics & BI** with **Python and SQL**
 
-- 🔭 I’m currently working at [!Trip2balance](https://trip2balance.com/)
-- 🌱 I’m currently learning Django and Snowflake
+- 🔭 I’m currently working at [Trip2balance](https://trip2balance.com/)
+- 🌱 I’m currently learning Django and Snowflake, as well as dashboarding with Streamlit
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Peter_Berna_Williams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-berna-williams/)](https://www.linkedin.com/in/peter-berna-williams/)
 [![Gmail Badge](https://img.shields.io/badge/-peterbernaw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peterbernaw@gmail.com)](mailto:peterbernaw@gmail.com)
