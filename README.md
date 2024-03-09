@@ -4,7 +4,7 @@
 
 :man_technologist: &nbsp; Passionate about **Data Analytics & BI** with **Python and SQL**
 
-- 🔭 I’m currently working at [IQVIA](https://www.iqvia.com/ )
+- 🔭 Currently working as a Data Analyst at [IQVIA](https://www.iqvia.com/ )
 - 🌱 I’m currently learning Django and Snowflake, as well as dashboarding with Streamlit
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Peter_Berna_Williams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-berna-williams/)](https://www.linkedin.com/in/peter-berna-williams/)
